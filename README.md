@@ -14,7 +14,7 @@ Blockleaf moves task prioritization out of flat 2D lists and into a small, tacti
 
 ## Demo
 
-- **YouTube demo:** [Add demo video URL](YOUTUBE_VIDEO_URL)
+- **YouTube demo:** [https://youtu.be/3h-baUDdIAM?si=2NVAEngWyKgm9xbW](YOUTUBE_VIDEO_URL)
 - **Devpost submission — Meta VR Start Developer Competition 2026:** [![Devpost submission](https://img.shields.io/badge/Devpost-Submission-003E54?logo=devpost&logoColor=white)](DEVPOST_SUBMISSION_URL)
 
 ### Screenshots
