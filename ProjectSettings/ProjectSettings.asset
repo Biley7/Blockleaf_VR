@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: biley7
   productName: Blockleaf
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -170,8 +170,8 @@ PlayerSettings:
   androidMaxAspectRatio: 2.4
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.biley.blockleaf
-    Standalone: com.Unity-Technologies.com.unity.template.urp-blank
+    Android: com.biley7.blockleaf
+    Standalone: com.biley7.blockleaf
     iPhone: com.Unity-Technologies.com.unity.template.urp-blank
     tvOS: com.Unity-Technologies.com.unity.template.urp-blank
   buildNumber:
@@ -265,7 +265,7 @@ PlayerSettings:
   clonedFromGUID: 3c72c65a16f0acb438eed22b8b16c24a
   templatePackageId: com.unity.template.urp-blank@17.2.6
   templateDefaultScene: Assets/Scenes/SampleScene.unity
-  useCustomMainManifest: 0
+  useCustomMainManifest: 1
   useCustomLauncherManifest: 0
   useCustomMainGradleTemplate: 0
   useCustomLauncherGradleManifest: 0
@@ -277,7 +277,7 @@ PlayerSettings:
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: 
-  AndroidKeyaliasName: 
+  AndroidKeyaliasName: blockleaf
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidEnableArm64MTE: 0
   AndroidBuildApkPerCpuArchitecture: 0
