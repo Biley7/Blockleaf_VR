@@ -17,13 +17,6 @@ Blockleaf moves task prioritization out of flat 2D lists and into a small, tacti
 - **YouTube demo:** [https://youtu.be/3h-baUDdIAM?si=2NVAEngWyKgm9xbW](YOUTUBE_VIDEO_URL)
 - **Devpost submission — Meta VR Start Developer Competition 2026:** [![Devpost submission](https://img.shields.io/badge/Devpost-Submission-003E54?logo=devpost&logoColor=white)](DEVPOST_SUBMISSION_URL)
 
-### Screenshots
-
-| View | Screenshot |
-|---|---|
-| Seated workspace | `docs/screenshots/workspace.png` — add screenshot |
-| Task priority trays | `docs/screenshots/priority-trays.png` — add screenshot |
-| Focus Mode | `docs/screenshots/focus-mode.png` — add screenshot |
 
 ## Core spatial features
 
